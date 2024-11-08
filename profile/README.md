@@ -1,1 +1,2 @@
-# RvOS is a fork of [AOSPA](https://github.com/aospa)
+# RvOS
+RvOS is a fork of [AOSPA](https://github.com/aospa)
