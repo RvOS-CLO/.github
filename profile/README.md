@@ -13,4 +13,9 @@ you can use the device tree from [AOSPA](https://github.com/aospa) to build RvOS
 
 # Credits
 - [AOSPA](https://github.com/aospa)
-- [Reloaded OS](https://github.com/ReloadedOS)
+- [xdroidOSS](https://github.com/xdroid-oss)
+- [AfterlifeOS](https://github.com/AfterlifeOS)
+- [AncientOS](https://github.com/Ancient-ROMS)
+- [AxionAOSP](https://github.com/AxionAOSP)
+- [DroidresID](https://t.me/DroidResID)
+- [Allivee](https://t.me/AlliveeCh)
